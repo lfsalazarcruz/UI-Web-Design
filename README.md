@@ -1,2 +1,5 @@
-# UI-web-design-I
-UI web design exercise using Adobe Illustrator
+# UI-web-design
+
+UI web design exercise using Adobe Illustrator.
+
+Open FernandoPortfolio file and Site-map docs with Adobe Illustrator.
